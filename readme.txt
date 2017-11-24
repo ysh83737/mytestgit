@@ -11,3 +11,5 @@ Git has a mutable index called stage.
 a stupied boss
 Creating a new branch is quick AND simple.
 test for --no-ff
+
+临时停止修复bug
