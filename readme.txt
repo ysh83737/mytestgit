@@ -10,3 +10,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 a stupied boss
 Creating a new branch is quick AND simple.
+test for --no-ff
