@@ -5,3 +5,5 @@ Git is a distributed version control system.
 Git is free software.
 change it but not save it
 Development and Production Versions
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
