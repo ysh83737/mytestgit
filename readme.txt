@@ -13,3 +13,5 @@ Creating a new branch is quick AND simple.
 test for --no-ff
 
 临时停止修复bug
+
+哈哈哈哈哈，测试一下
